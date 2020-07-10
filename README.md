@@ -1,4 +1,4 @@
-# Alex Alves
+# Alex Alves 🤓
 
 ## Hi there 👋! Welcome to my profile!
 
