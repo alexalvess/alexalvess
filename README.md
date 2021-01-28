@@ -4,7 +4,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on [Agile Click](https://www.agileclick.com.br/)
+- 🔭 I’m currently working on [XP Inc.](https://www.xpinc.com/)
 - 🌱 I’m currently learning .NET performance
 - 👯 I’m looking to collaborate on with my C# knowledges
 
