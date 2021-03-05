@@ -19,3 +19,7 @@ And I'm full-stack developer:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/alexalvess/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@alexalvess)](https://medium.com/@alexalvess)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alex.as25/)](https://www.instagram.com/alex.as25/)
+
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexalvess&count_private=true&show_icons=true&hide_border=false">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexalvess&count_private=true&show_icons=true&hide_border=false" />
+</a>
