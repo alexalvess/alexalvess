@@ -5,14 +5,13 @@
 Here something about me:
 
 - 🔭 I’m currently working on [XP Inc.](https://www.xpinc.com/)
-- 🌱 I’m currently learning .NET performance
+- 🌱 I’m currently learning Distributed Architectures
 - 👯 I’m looking to collaborate on with my C# knowledges
 
-And I'm full-stack developer:
+And I'm Software Engineer:
  - 💜 In love with C#, always
  - 😁 Currently specializing in C# performance
- - ❤️ I'm love Javascript/Typescript too
- - 🚀 Senior Software Engineer of XP Inc!
+ - ❤️ I'm love best practices and design patterns too
 
 ##
 
