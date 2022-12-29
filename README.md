@@ -10,7 +10,7 @@ Here something about me:
 
 And I'm Software Engineer:
  - 💜 In love with C#, always
- - 😁 Currently specializing in C# performance
+ - 😁 Currently specializing in Distributed Architecture
  - ❤️ I'm love best practices and design patterns too
 
 ##
