@@ -1,5 +1,3 @@
-# Alex Alves 🤓
-
 ## Hi there 👋! Welcome to my profile!
 
 Here something about me:
