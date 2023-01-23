@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on [XP Inc.](https://www.xpinc.com/)
+- 🔭 DDD adopter
 - 🌱 I’m currently learning Distributed Architectures
 - 👯 I’m looking to collaborate on with my C# knowledges
 
