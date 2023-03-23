@@ -5,6 +5,7 @@ Here something about me:
 - 🔭 DDD adopter
 - 🌱 I’m currently learning Distributed Architectures
 - 👯 I’m looking to collaborate on with my C# knowledges
+- 🤓 I'm studying Node.js and how it can using in a distributed systems
 
 And I'm Software Engineer:
  - 💜 In love with C#, always
