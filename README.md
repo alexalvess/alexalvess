@@ -1,7 +1,6 @@
 ## Hi there 👋! Welcome to my profile!
 
 Here something about me:
-
 - 🔭 DDD adopter
 - 🌱 I’m currently learning Distributed Architectures
 - 👯 I’m looking to collaborate on with my C# knowledges
@@ -14,12 +13,18 @@ And I'm Software Engineer:
 
 ##
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexalvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalvess&layout=compact&langs_count=7&theme=dark&hide=php,java,arduino"/>
-</div>
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=alexalvess&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=alexalvess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalvess&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&hide=php,java,arduino,html,css" />
+    </p>
+</details>
 
-  <div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
