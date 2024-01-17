@@ -1,15 +1,16 @@
 ## Hi there 👋! Welcome to my profile!
 
-Here something about me:
+Here is something about me:
 - 🔭 DDD adopter
-- 🌱 I’m currently learning Distributed Architectures
-- 👯 I’m looking to collaborate on with my C# knowledges
-- 🤓 I'm studying Node.js and how it can using in a distributed systems
+- 🌱 I’m currently learning Distributed Architecture
+- 👯 I’m looking to collaborate on my C# knowledge
+- 🤓 I'm studying Node.js and how it can be used in a distributed systems
 
-And I'm Software Engineer:
- - 💜 In love with C#, always
+And I'm a Software Engineer:
+ - 🤓 C# specialist
+ - 🧡 In love with NODE
  - 😁 Currently specializing in Distributed Architecture
- - ❤️ I'm love best practices and design patterns too
+ - ❤️ I love best practices and design patterns too
 
 ##
 
