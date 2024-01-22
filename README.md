@@ -4,11 +4,11 @@ Here is something about me:
 - 🔭 DDD adopter
 - 🌱 I’m currently learning Distributed Architecture
 - 👯 I’m looking to collaborate on my C# knowledge
-- 🤓 I'm studying Node.js and how it can be used in a distributed systems
+- 🤓 I'm studying Node.js and how it can be used in distributed systems
 
 And I'm a Software Engineer:
  - 🤓 C# specialist
- - 🧡 In love with NODE
+ - 🧡 In love with Node.JS
  - 😁 Currently specializing in Distributed Architecture
  - ❤️ I love best practices and design patterns too
 
